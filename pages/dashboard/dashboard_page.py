@@ -34,4 +34,7 @@ class DashboardPage(BasePage):
     def check_visible_scores_chart(self):
         self.scores_chart.check_visible('Scores')
 
+    def check_visible_dashboard_title(self):
+        expect(self.dashboard_title).to_be_visible()
+
 
