@@ -1,0 +1,38 @@
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-preview-empty-view-icon" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Icon "Icon" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-preview-empty-view-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-preview-empty-view-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Title" has text "No image selected"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-preview-empty-view-description-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-preview-empty-view-description-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Description" has text "Preview of selected image will be displayed here"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-exercises-empty-view-icon" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Icon "Icon" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-exercises-empty-view-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-exercises-empty-view-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Title" has text "There is no exercises"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-exercises-empty-view-description-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Description" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=create-course-exercises-empty-view-description-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Description" has text "Click on "Create exercise" button to create new exercise"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-preview-image" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Image "Preview" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-widget-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Title" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-widget-title-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Title" has text "Playwright"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-max-score-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Max score" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-max-score-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Max score" has text "Max score: 100"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-min-score-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Min score" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-min-score-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Min score" has text "Min score: 10"
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-estimated-time-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:36 Checking that Text "Estimated time" is visible
+INFO     BASE_ELEMENT:base_element.py:21 Getting locator with "data-testid=course-estimated-time-info-row-view-text" at index "0"
+INFO     BASE_ELEMENT:base_element.py:43 Checking that Text "Estimated time" has text "Estimated time: 2 weeks"
