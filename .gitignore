@@ -1,5 +1,9 @@
 .idea/
 venv
 allure-results
-tracing/
-videos/
+tracing
+videos
+__pycache__
+allure-report
+*.html
+*.json
